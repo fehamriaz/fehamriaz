@@ -16,9 +16,9 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 💼 Highlighted Projects
 
 
-[EHR Predictive Modeling Roadmap](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap)
+[EHR Predictive Modeling Roadmap for one of Asia's largest hospital](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap)
 
-[Psychosis Awareness Chatbot](https://github.com/fehamriaz/-EAZE-Psychosis-Awareness-Chatbot-)
+[Publicly Accessible Psychosis Awareness Chatbot](https://github.com/fehamriaz/-EAZE-Psychosis-Awareness-Chatbot-)
 
 AI-Driven Health Technology Assessment
 
