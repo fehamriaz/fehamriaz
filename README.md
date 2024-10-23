@@ -21,6 +21,8 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 
 [Publicly Accessible Psychosis Awareness Chatbot](https://github.com/fehamriaz/-EAZE-Psychosis-Awareness-Chatbot-)
 
+[AI Applications in Predicting Psychosis Relapse: A Systematic Review](https://github.com/fehamriaz/AI-Applications-in-Predicting-Psychosis-Relapse-A-Systematic-Review)
+
 [Marketing Audit for Fitbit](https://github.com/fehamriaz/Marketing-Audit-for-Fitbit)
 
 [Oto Health Investment Case for RYSE Asset Management](https://github.com/fehamriaz/Oto-Health-Investment-Case-for-RYSE-Asset-Management)
