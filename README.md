@@ -16,7 +16,7 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 💼 Highlighted Projects
 
 
-[EHR Predictive Modeling Roadmap](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap))
+[EHR Predictive Modeling Roadmap](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap)
 
 AI-Driven Health Technology Assessment
 
