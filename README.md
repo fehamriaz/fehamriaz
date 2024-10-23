@@ -3,9 +3,6 @@ Feham Riaz
 
 Digital Health Professional | Clinician | AI Enthusiast | Co-Creation Advocate
 
-I'm passionate about integrating technology and healthcare to drive impactful solutions, particularly through co-creation with clinicians and stakeholders.
-With a background in clinical care and digital health, I work at the intersection of healthcare and ICT to design solutions that enhance patient care, improve workflows, and create scalable innovations.
-
 
 🔍 About Me
 
@@ -21,7 +18,7 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 EHR Roadmap & Predictive Analytics
 
 Developed a comprehensive roadmap for Shifa International Hospital to integrate AI-driven predictive modeling using EHR data, optimizing clinical workflows and improving patient outcomes.
-View Repository
+[EHR Predictive Modeling Roadmap]([repository URL](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap))
 
 AI-Driven Health Technology Assessment
 
