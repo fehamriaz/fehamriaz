@@ -57,7 +57,7 @@ Here are some of my key projects in digital health, AI, and healthcare transform
 - **📝 Health Technology Assessments**
 - **📈 Market Analysis & Strategic Planning**
 
-- Feel free to explore my repositories for more details on the projects and solutions I’ve worked on!
+Feel free to explore my repositories for more details on the projects and solutions I’ve worked on!
 <!---
 fehamriaz/fehamriaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
