@@ -29,29 +29,20 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 
 [NeuroNexa: Revolutionizing Depression Care with AI-Driven Solutions](https://github.com/fehamriaz/NeuroNexa-Revolutionizing-Depression-Care-with-AI-Driven-Solutions)
 
-AI-Driven Health Technology Assessment
-
-Conducting a health technology assessment at Amsterdam UMC for an AI tool designed to automate segmentation of colorectal liver metastases in CT imaging.
-View Repository
-
-Psychosis Awareness Chatbot
-
-Created "Eaze," a chatbot built with IBM Watson to raise awareness about psychosis, providing accessible mental health information and support.
-View Repository
-
-Fitbit Marketing Audit
-
-Conducted a strategic marketing audit for Fitbit, evaluating competitive positioning and recommending product optimizations to boost consumer engagement.
-View Repository
 
 
 🔧 Skills & Expertise
 
 Healthcare Project Management
+
 Digital Health Strategy & Transformation
+
 AI & Predictive Analytics in Healthcare
+
 Co-Creation & Stakeholder Collaboration
+
 Health Technology Assessments
+
 Market Analysis & Strategic Planning
 <!---
 fehamriaz/fehamriaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
