@@ -15,7 +15,7 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 
 💼 Highlighted Projects
 
-[Health Technology Assessment for Amsterdam UMC](https://github.com/fehamriaz/Health-Technology-Assessment-for-Amsterdam-UMC.git)
+[Health Technology Assessment for Amsterdam UMC](https://github.com/fehamriaz/Health-Technology-Assessment-for-Amsterdam-UMC)
 
 [EHR Predictive Modeling Roadmap for one of Asia's largest hospital](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap)
 
