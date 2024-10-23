@@ -22,6 +22,8 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 
 [Marketing Audit for Fitbit](https://github.com/fehamriaz/Marketing-Audit-for-Fitbit)
 
+[Oto Health Investment Case for RYSE Asset Management](https://github.com/fehamriaz/Oto-Health-Investment-Case-for-RYSE-Asset-Management)
+
 AI-Driven Health Technology Assessment
 
 Conducting a health technology assessment at Amsterdam UMC for an AI tool designed to automate segmentation of colorectal liver metastases in CT imaging.
