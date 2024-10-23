@@ -1,6 +1,12 @@
-# **Dr Feham Riaz**  
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D03AQHf-4ihHQpwFQ/profile-displayphoto-shrink_200_200/0/1707498995103?e=2147483647&v=beta&t=PPF3SQeTME5f0C09O_0uRNu-rdUxI55kRFmmBaydAv8" alt="Feham Riaz" width="200"/>
+</p>
 
+# <p align="center"><b style="color:#0066ff">Feham Riaz</b></p>  
 ### *Digital Health Professional | Clinician | AI Enthusiast | Co-Creation Advocate*  
+
+
+---
 
 
 ## 🔍 **About Me**  
