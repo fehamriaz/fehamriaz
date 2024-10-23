@@ -15,6 +15,7 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 
 💼 Highlighted Projects
 
+[Health Technology Assessment for Amsterdam UMC](https://github.com/fehamriaz/Health-Technology-Assessment-for-Amsterdam-UMC)
 
 [EHR Predictive Modeling Roadmap for one of Asia's largest hospital](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap)
 
@@ -23,6 +24,8 @@ Co-Creation Advocate: I believe in collaborative, human-centered design, where s
 [Marketing Audit for Fitbit](https://github.com/fehamriaz/Marketing-Audit-for-Fitbit)
 
 [Oto Health Investment Case for RYSE Asset Management](https://github.com/fehamriaz/Oto-Health-Investment-Case-for-RYSE-Asset-Management)
+
+[NeuroNexa: Revolutionizing Depression Care with AI-Driven Solutions](https://github.com/fehamriaz/NeuroNexa-Revolutionizing-Depression-Care-with-AI-Driven-Solutions)
 
 AI-Driven Health Technology Assessment
 
