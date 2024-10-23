@@ -58,6 +58,28 @@ Here are some of my key projects in digital health, AI, and healthcare transform
 - **📈 Market Analysis & Strategic Planning**
 
 Feel free to explore my repositories for more details on the projects and solutions I’ve worked on!
+
+## 🌟 Affiliations 
+
+<p align="center">
+  <img src="https://d3mjukcdspaj9q.cloudfront.net/organisations/profile_images/000/000/254/original/image1476217466?1476217466" alt="UCL" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://yt3.googleusercontent.com/2Pictlunpm79qZr9yZrh5MO0pgfL28zi4xOo7XQ0Lg7rXTGWqZl_IePcHghM9kJogvTURc-G5Do=s900-c-k-c0x00ffffff-no-rj" alt="UCL Global Business School for Health" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://mimir.nu/wp-content/uploads/2021/06/logo-amsterdamumc-200x200-1.png" alt="Amsterdam UMC" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://logowik.com/content/uploads/images/yale-new-haven-hospital2026.logowik.com.webp" alt="Yale University" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.ryseam.com/media/zoo/images/RYSE_logo_bf8032cab34ca253fe761e520ea98a9a.png" alt="Ryse Asset Management" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Fitbit-Logo-2016-present.jpg" alt="Fitbit" width="150" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://app.psyrin.co.uk/images/social-share.png" alt="Psyrin" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFmzveTGWQikyKii6neomMli1aKIYmYgfFA&s" alt="Shifa International" width="150" height="120"/>
+</p>
+
+
 <!---
 fehamriaz/fehamriaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
