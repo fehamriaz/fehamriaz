@@ -16,10 +16,9 @@
 ## 🔍 **About Me**  
 I'm a passionate **Digital Health Professional** who blends hands-on clinical experience with the latest in health technology. My work spans AI-driven solutions and strategic healthcare innovations, with a strong emphasis on **co-creation** to design impactful, human-centered solutions.
 
-- 💻 **Clinician & Digital Health Professional**: Merging hands-on healthcare experience with cutting-edge digital tools.
+- 💻 **Clinician & Digital Health Professional**
 - 💡 **Co-Creation Advocate**: Firm believer in human-centered design, ensuring that solutions are created *with* users, not just *for* them.
-- 🤖 **AI & Health Tech Enthusiast**: Developed AI-driven solutions like predictive analytics and conducted health technology assessments.
-
+- 🤖 **AI & Health Tech Enthusiast**
 
 
 ## 💼 **Highlighted Projects**  
