@@ -43,7 +43,7 @@ Here are some of my key projects in digital health, AI, and healthcare transform
   *Developed an investment case for a digital health start-up managing tinnitus, evaluating market potential and growth strategies.*
 
 - [**NeuroNexa: Revolutionizing Depression Care with AI-Driven Solutions**](https://github.com/fehamriaz/NeuroNexa-Revolutionizing-Depression-Care-with-AI-Driven-Solutions)  
-  *Created a web-based platform aimed at streamlining depression care with AI-driven patient management tools.*
+  *Created a vetted business plan with a detailed financial model for a web-based platform aimed at streamlining depression care with AI-driven patient management tools.*
 
 
 
