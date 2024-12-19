@@ -73,7 +73,7 @@ Feel free to explore my repositories for more details on the projects and soluti
   &nbsp;&nbsp;&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Fitbit-Logo-2016-present.jpg" alt="Fitbit" width="150" height="120"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://app.psyrin.co.uk/images/social-share.png" alt="Psyrin" width="120" height="120"/>
+  <img src="[https://app.psyrin.co.uk/images/social-share.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpsyrin.co.uk%2F&psig=AOvVaw1sjQ1xqWU2FktsRE7GP9CI&ust=1734706433177000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjiw5eLtIoDFQAAAAAdAAAAABAE)" alt="Psyrin" width="120" height="120"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFmzveTGWQikyKii6neomMli1aKIYmYgfFA&s" alt="Shifa International" width="150" height="120"/>
 </p>
