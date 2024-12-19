@@ -25,7 +25,7 @@ I'm a passionate **Digital Health Professional** who blends hands-on clinical ex
 Here are some of my key projects in digital health, AI, and healthcare transformation:
 
 - [**Health Technology Assessment for Amsterdam UMC**](https://github.com/fehamriaz/Health-Technology-Assessment-for-Amsterdam-UMC)  
-  *Evaluated clinical and market potential for a digital health tool.*
+  *Evaluating clinical and market potential for a digital health tool.*
 
 - [**EHR Predictive Modeling Roadmap for one of Asia's largest hospitals**](https://github.com/fehamriaz/EHR-Roadmap?tab=readme-ov-file#ehr-predictive-modeling-roadmap)  
   *Developed a comprehensive roadmap to integrate predictive modeling and AI-driven technology for improved clinical outcomes.*
